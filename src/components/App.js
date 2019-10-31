@@ -16,7 +16,7 @@ class App extends Component {
   consultarApi = () => {
     //const busqueda = this.state.termino;
     const pagina = this.state.pagina;
-    const url = `https://pixabay.com/api/?key=13625848-e0c7b2145b2d5ed589f06814f&q=${
+    const url = `https://pixabay.com/api/?key=YOUR_API_KEY&q=${
       this.state.termino
     }&page=${pagina}`;
     //console.log(url);
