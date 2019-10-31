@@ -1,2 +1,0 @@
-# BuscadorImagenes
-Created with CodeSandbox
